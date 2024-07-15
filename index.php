@@ -1,5 +1,5 @@
 <?php
-$koneksi = mysqli_connect("localhost","root","","tugas_akhir");
+$koneksi = mysqli_connect("sql310.infinityfree.com","if0_36908251","RmbEXib6kOUtGm","if0_36908251_tugas_akhir");
 
 function selecDatabase($query){
   global $koneksi;
